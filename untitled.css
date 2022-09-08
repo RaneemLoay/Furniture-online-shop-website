@@ -1,0 +1,17 @@
+input {
+    border: none;
+    outline: none;
+    border-radius: 0;
+    width: 80%;
+    border-bottom: 2px solid white;
+    margin-bottom: 25px;
+    padding: 6px 0;
+    font-size: 14px;
+    background: white;
+}
+
+
+body
+{
+    background-color: black;
+}
